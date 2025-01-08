@@ -7,26 +7,21 @@ I'm a **Computer Engineering** student at **Süleyman Demirel University**, pass
 ## 🚀 About Me
 
 - 🔭 I'm currently studying **Computer Engineering** and working on various software development projects.
-- 🌱 I have experience with programming languages such as **Python**, **Java**, and **C++**, and I'm keen to explore new technologies.
-- 💼 My current focus areas include **Database Management**, **Artificial Intelligence**, **Web Development**, and **Mobile App Development**.
+- 🌱 I have experience with programming languages such as **C#** , **C++** and **Java** and I'm keen to explore new technologies.
+- 💼 My current focus areas include **Mobile Game Development**.
 - 🧠 I'm a strong believer in continuous learning and always excited to take on new challenges.
-- 📫 You can reach me via email at [ugurbenli@gmail.com](mailto:ugurbenli@gmail.com).
+- 📫 You can reach me via email at [ugurbenli@gmail.com](mailto:cez2008@windowslive.com).
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, Java, C++, JavaScript, SQL
-- **Web Technologies**: HTML, CSS, React, Node.js
-- **Databases**: MySQL, MongoDB, PostgreSQL
-- **Tools**: Git, GitHub, VS Code, IntelliJ IDEA
-- **Others**: Docker, Kubernetes, TensorFlow
-
----
-
-## 📈 GitHub Stats
-
-![Uğur Benli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ugurbenli&show_icons=true&theme=radical)
+- **Programming Languages**: C#, Java, C++, JavaScript
+- **Game Engine**: Unity,Unreal Engine
+- **Graphics & Design Tools**: Adobe Photoshop,Blender
+- **Sound & Music Tools**: Audacity,FL Studio
+- **Multiplayer & Networking**: Photon Engine,Mirror(Unity)
+- **Cloud & Backend**: Firebase,PlayFab
 
 ---
 
@@ -42,10 +37,7 @@ I'm a **Computer Engineering** student at **Süleyman Demirel University**, pass
 
 Here are some of my projects:
 
-1. **[My Projects - GitHub](https://github.com/ugurbenli?tab=repositories)**: Explore various software development projects and learning-based works I've contributed to.
-2. **[AI & Machine Learning Projects](https://github.com/ugurbenli/ai-projects)**: Projects related to Artificial Intelligence and Machine Learning.
 
----
 
 ## 🌟 Contributing
 
@@ -54,3 +46,4 @@ I enjoy contributing to open-source projects. If you need help with a project or
 ---
 
 Thank you! 🚀
+
