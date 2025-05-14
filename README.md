@@ -36,11 +36,12 @@ I'm a **Computer Engineering** student at **Süleyman Demirel University**, pass
 ## 🔗 My Projects
 
 Here are some of my projects:
--[GitHub](https://github.com/ugurbenli48/TozluYol)
--[GitHub](https://github.com/ugurbenli48/Kultur-Yokusu)
--[GitHub](https://github.com/ugurbenli48/BalloonGame)
--[GitHub](https://github.com/ugurbenli48/AAGame)
--[GitHub](https://github.com/ugurbenli48/SnakeGame)
+- [Tozlu Yol](https://github.com/ugurbenli48/TozluYol)  
+- [Kültür Yokuşu](https://github.com/ugurbenli48/Kultur-Yokusu)  
+- [Balloon Game](https://github.com/ugurbenli48/BalloonGame)  
+- [AA Game](https://github.com/ugurbenli48/AAGame)  
+- [Snake Game](https://github.com/ugurbenli48/SnakeGame)  
+
 
 
 ## 🌟 Contributing
